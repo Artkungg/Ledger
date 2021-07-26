@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "date": "09-07-2021",
+            "income" : "Sell Cookie",
+            "expenses": "-",
+            "amount": 500,
+            "balance": 500
+        },
+        {
+            "date": "10-07-2021",
+            "income" : "-",
+            "expenses" : "Food",
+            "amount": -30,
+            "balance": 470
+        },
+        {
+            "date": "11-07-2021",
+            "income" : "-",
+            "expenses" : "Pen",
+            "amount": -20,
+            "balance": 450
+        },
+        {
+            "date": "12-07-2021",
+            "income" : "-",
+            "expenses" : "Pencil",
+            "amount": -5,
+            "balance": 445
+        }
+    ]
+}
